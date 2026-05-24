@@ -18,3 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nanas07-bit&show_icons=true&theme=radical" alt="Statistik GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanas07-bit&layout=compact&theme=radical" alt="Bahasa Populer" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nanas07-bit/Nanas07-bit/main/github-snake.svg" />
+</p>
+
