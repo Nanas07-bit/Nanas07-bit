@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Halo+Fellas!+👋;+Aku+seorang+Mahasiswa Perpustakaan dan Sains Informsasi;+Selamat+datang+di+profilku!" alt="Typing SVG" />
+</p>
 
-<!--
-**Nanas07-bit/Nanas07-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Statistik GitHubku:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nanas07-bit&show_icons=true&theme=radical" alt="Statistik GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanas07-bit&layout=compact&theme=radical" alt="MySQL" />
+</p>
