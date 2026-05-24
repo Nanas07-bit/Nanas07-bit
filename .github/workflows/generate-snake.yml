@@ -1,0 +1,39 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Perbarui setiap hari pada jam 00:00 UTC
+    - cron: "0 0 * * *"
+  # Izinkan untuk menjalankan Workflow ini secara manual dari tab Actions
+  workflow_dispatch:
+  # Jalankan setiap kali ada perubahan pada branch main
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Step 1: Ambil data kontribusi GitHub Anda
+      - name: generate-github-profile-3d-contrib
+        uses: Platane/snk@v3
+        with:
+          # Username GitHub Anda (otomatis terisi)
+          github_user_name: ${{ github.repository_owner }}
+          # Path untuk file output yang akan dihasilkan
+          outputs: |
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
+
+      # Step 2: Push file yang dihasilkan kembali ke repositori Anda
+      - name: Push github-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: main
+          build_dir: .
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
