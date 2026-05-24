@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Halo+Semua+👋;Aku+seorang+Mahasiswa+Perpustakaan+dan+Sains+Informasi;Selamat+datang+di+profilku!"alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Halo+Semua!+👋;Mahasiswa+Perpustakaan+dan+Sains+Informasi+📚;Peneliti+Arkeologi+&+3D+Modeling+🏛️;Penggemar+Kustomisasi+Terminal+&+CLI+💻;Selamat+datang+di+profilku!+✨" alt="Typing SVG" />
 </p>
 
 ---
