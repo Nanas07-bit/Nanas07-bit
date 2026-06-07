@@ -1,58 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
-  <style>
-    .typing-text {
-      font-family: 'Courier New', Courier, monospace;
-      font-weight: 600;
-      font-size: 22px;
-      text-anchor: middle;
-      dominant-baseline: middle;
-    }
-
-    .line {
-      opacity: 0;
-    }
-
-    .line-1 { fill: #FFFFFF; animation: type 21s infinite; animation-delay: 0s; }
-    .line-2 { fill: #36BCF7; animation: type 21s infinite; animation-delay: 3s; }
-    .line-3 { fill: #F1C40F; animation: type 21s infinite; animation-delay: 6s; }
-    .line-4 { fill: #2ECC71; animation: type 21s infinite; animation-delay: 9s; }
-    .line-5 { fill: #E67E22; animation: type 21s infinite; animation-delay: 12s; }
-    .line-6 { fill: #9B59B6; animation: type 21s infinite; animation-delay: 15s; }
-    .line-7 { fill: #36BCF7; animation: type 21s infinite; animation-delay: 18s; }
-
-    .cursor {
-      fill: #36BCF7;
-      animation: blink 0.7s step-end infinite;
-    }
-
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
-    }
-
-    @keyframes type {
-      0%   { opacity: 0; }
-      2%   { opacity: 1; }
-      13%  { opacity: 1; }
-      15%  { opacity: 0; }
-      100% { opacity: 0; }
-    }
-  </style>
-
-  <rect width="900" height="160" fill="#0d1117" rx="12"/>
-
-  <text x="450" y="80" class="typing-text line line-1">Halo Semua!</text>
-  <text x="450" y="80" class="typing-text line line-2">Perkenalkan, aku Muhammad Echwan Rangghani Alhafizi</text>
-  <text x="450" y="80" class="typing-text line line-3">Mahasiswa Perpustakaan dan Sains Informasi</text>
-  <text x="450" y="80" class="typing-text line line-4">Minat: Preservasi &amp; Konservasi Naskah Kuno</text>
-  <text x="450" y="80" class="typing-text line line-5">Library Management Systems &amp; Database Engginering</text>
-  <text x="450" y="80" class="typing-text line line-6">Serta Geo-Arkeologi</text>
-  <text x="450" y="80" class="typing-text line line-7">Penggemar Kustomisasi Terminal &amp; CLI</text>
-  <text x="450" y="80" class="typing-text line line-8">Selamat datang di profilku!</text>
-
-  <rect x="452" y="90" width="12" height="3" rx="1" class="cursor"/>
-</svg>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Halo+Semua!;Perkenalkan,+aku+Muhammad+Echwan+Rangghani+Alhafizi;Mahasiswa+Perpustakaan+dan+Sains+Informasi;Memiliki+minat+pada+Preservasi+%26+Konservasi+Naskah+Kuno;Serta+Geo-Arkeologi;Penggemar+Kustomisasi+Terminal+%26+CLI;Selamat+datang+di+profilku!" alt="Typing SVG" />
+</p>
 
 ### 🛠️ Tech Stack & Tools:
 <p align="center">
