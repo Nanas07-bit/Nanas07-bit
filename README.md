@@ -31,3 +31,5 @@
   </picture>
 </p>
 
+<img src="https://raw.githubusercontent.com/Nanas07-bit/Nanas07-bit/output/typing-intro.svg" width="900" alt="Typing intro" />
+
