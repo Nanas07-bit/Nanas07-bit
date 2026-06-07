@@ -1,0 +1,19 @@
+name: Generate Typing SVG
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Copy SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
