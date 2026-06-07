@@ -25,3 +25,10 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+output: - uses: Platane/snk@v3
+  with:
+    github_user_name: Nanas07-bit
+    outputs: |
+      dist/github-snake.svg?type=pacman
+      dist/github-snake-dark.svg?type=pacman&palette=github-dark
