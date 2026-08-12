@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Halo+Semua!;Perkenalkan,+aku+Muhammad+Echwan+Rangghani+Alhafizi;Mahasiswa+Perpustakaan+dan+Sains+Informasi;Memiliki+minat+pada+Preservasi+%26+Konservasi+Naskah+Kuno;Serta+Geo-Arkeologi;Penggemar+Kustomisasi+Terminal+%26+CLI;Selamat+datang+di+profilku!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Halo+Semua!;Perkenalkan,+aku+Muhammad+Echwan+Rangghani+Alhafizi;Mahasiswa+Sains+Informasi+dari+Departemen+Perpustakaan+dan+Sains+Informasi;Memiliki+minat+pada+Preservasi+%26+Konservasi+Naskah+Kuno;Serta+Geo-Arkeologi;Penggemar+Kustomisasi+Terminal+%26+CLI;Selamat+datang+di+profilku!" alt="Typing SVG" />
 </p>
 
 ### 🛠️ Tech Stack & Tools:
